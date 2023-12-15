@@ -23,3 +23,5 @@
 * test suit is set up in files contact_test.rb and contact_controller_test.rb in the test/models and in the test/controllers file path respectivly then run rails test to run testing 
 
 
+word
+
